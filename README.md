@@ -1,6 +1,6 @@
 # image-cache
 A minimal set of php scripts that caches and resizes images for the tool web of Uppsala Makerspace.
-A standalone version of the tool web is available at: [https://data.uppsalamakerspace.se/tool](Tool web).
+A standalone version of the tool web is available at: [Tool web](https://data.uppsalamakerspace.se/tool).
 
 ## Prerequisities
 
